@@ -31,8 +31,8 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 
 ### Python
 
-- [crypto-com/pystarport](https://github.com/crypto-com/chain-main/tree/master/pystarport)
 - [crypto-com/chainlibpy](https://github.com/crypto-com/chainlibpy)
+- [crypto-com/pystarport](https://github.com/crypto-com/chain-main/tree/master/pystarport)
 
 ### Golang
 
@@ -57,6 +57,7 @@ Please read our [Contributing guideline](./CONTRIBUTING.md).
 
 - [Official Explorer](https://chain.crypto.com/explorer) | [Source](https://github.com/crypto-com/chain-indexing)
 - [Big Dipper](https://explorer.nebkas.ro) hosted by [[ nebkas.ro ]](https://nebkas.ro) | [Source](https://github.com/forbole/big-dipper)
+- [CDOScan](https://cdoscan.com/) - by [ATOMScan](https://atomscan.com/)
 - [LOOK](https://look.ping.pub/#/validator?chain=crypto-org-chain-mainnet-1)
 
 ## Full Node Services
